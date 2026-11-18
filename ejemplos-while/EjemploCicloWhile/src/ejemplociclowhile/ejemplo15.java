@@ -19,3 +19,7 @@ public class ejemplo15 {
         }
     }
 }
+/*
+no se ejecuta porque declaramos contador y limite como 1, y la condicon es que
+si 1 < 1 por lo tanto es falso y no se puede ejecutar
+*/
